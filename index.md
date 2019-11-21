@@ -4,7 +4,8 @@
 <body>
 
 <h1>Hello World!</h1>
-<p>I'm hosted with GitHub Pages.<a href="https://www.w3schools.com">This is a link</a></p>
+<p>I'm hosted with GitHub Pages.</p>
+<a href="https://www.nationstates.net/nation=imperial_royal_union">This is a link</a>
 
 </body>
 </html>
