@@ -3,9 +3,10 @@
 <html>
 <body>
 
-<h1>Hello World!</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<a href="https://www.nationstates.net/nation=imperial_royal_union">This is a link</a>
+<h1>thalestsk</h1>
+<p>Average coder with minimal knowledge in python and HTML.<br>
+Singaporean who speaks English, Mandarin, Cantonese, Thai and <i>un petit peu francais</i>.<br>
+Creator of <a href="https://www.nationstates.net/nation=imperial_royal_union">this fictional nation</a> in NationStates.</p>
 
 </body>
 </html>
