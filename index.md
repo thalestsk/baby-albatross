@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-
 <html>
+<head><title>thalestsk</title></head>
 <body>
 
 <h1>thalestsk</h1>
